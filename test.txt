@@ -1,0 +1,1 @@
+For test how to delete the file from git
